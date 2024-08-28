@@ -78,4 +78,4 @@ tags: `tree house` `nature` `forest`
 
 [<- Previous](./page1.md)
 <br>
-[Next ->](./page2.md)
+[Next ->](./page3.md)
