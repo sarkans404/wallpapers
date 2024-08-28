@@ -15,3 +15,67 @@
 <br><br>
 
 ## Page 3
+
+tags: `samurai`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/got_bw.jpg">
+
+<br>
+
+tags: `japan` `town`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/japan.png">
+
+<br>
+
+trags: `datsun` `car` `cyberpunk`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/khyzyl-saleem-hakosukafinal.jpg">
+
+<br>
+
+tags: `bmw` `e34` `cyberpunk`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/khyzyl-saleem-stanceworks615.jpg">
+
+<br>
+
+tags: `ford` `mustang`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/neon-car2.png">
+
+<br>
+
+tags: `saturn` `space`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/planet_minimal.png">
+
+<br>
+
+tags: `porsche` `911` `1977`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/scjtwih80l1d1.png">
+
+<br>
+
+tags: `sushi`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/sushi_dark.png">
+
+<br>
+
+tags: `train` `lake`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/train_and_lake.png">
+
+<br>
+
+tags: `tree house` `nature` `forest`
+
+<img src="https://github.com/sarkans404/wallpapers/blob/main/Image/tree-house.png">
+
+<br> <br>
+
+[<- Previous](./page2.md)
+<br>
+[Next ->](./page4.md)
