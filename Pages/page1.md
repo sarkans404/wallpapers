@@ -75,4 +75,4 @@ tags: `honda` `nsx`
 <img src="https://github.com/sarkans404/wallpapers/blob/main/Image/PJ659d0T_4x.jpg">
 
 <br> <br>
-[Next ->](./Pages/page2.md)
+[Next ->](./page2.md)
